@@ -9,6 +9,12 @@ Este projeto envolve a classificação dos tipos de cobertura florestal no Roose
 O conjunto de dados, conhecido como Forest Cover Type, é utilizado para propor e avaliar múltiplas redes neurais artificiais do tipo feedforward multilayer perceptron (MLP) para resolver o problema de classificação multi-classe e determinar o tipo de cobertura florestal em uma área específica.
 
 <h2 align="left">
+    Base de dados Forest Cover Type
+</h2>
+
+Acesso à base de dados disponível em: https://www.kaggle.com/uciml/forest-cover-type-dataset/download
+
+<h2 align="left">
     Objetivos do Projeto
 </h2>
 
